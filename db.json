@@ -1,20 +1,19 @@
 {
-    "hotels":[
-       {    
-            "id": 1,
-            "hotel-name":"hotel name1",
-            "address":"germany-berlin"
-        },
-        {    
-            "id": 2,
-            "hotel-name":"hotel name2",
-            "address":"germany-bvb"
-        },
-        {    
-            "id": 3,
-            "hotel-name":"hotel name3",
-            "address":"germany-hamburg"
-        }
-
-    ]
+  "hotels": [
+    {
+      "id": 1,
+      "hotel-name": "hotel name1",
+      "address": "germany-berlin"
+    },
+    {
+      "id": 2,
+      "hotel-name": "hotel name2",
+      "address": "germany-bvb"
+    },
+    {
+      "id": 3,
+      "hotel-name": "hotel name3",
+      "address": "germany-humburg"
+    }
+  ]
 }

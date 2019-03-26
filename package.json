@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/ramy-medhat/hotel-app-backend/issues"
   },
-  "homepage": "https://github.com/ramy-medhat/hotel-app-backend#readme"
+  "homepage": "https://github.com/ramy-medhat/hotel-app-backend#readme",
+  "dependencies": {
+    "faker": "^4.1.0"
+  }
 }
