@@ -1,5 +1,5 @@
 const {hotelNames} = require ('../helper');
-const hotelNamesFormat = hotelNames.join('|');
+const hotelNamesFormat = hotelNames.join("|")
 const {amenities} = require('../helper');
 const amenitiesFormat = amenities.join('|')
 module.exports = {

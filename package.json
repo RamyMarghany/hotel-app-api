@@ -1,22 +1,22 @@
 {
-  "name": "hotel-app-backend",
+  "name": "hotel-app-api",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start":"json-server --watch db.js"
+    "start": "json-server --watch db.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ramy-medhat/hotel-app-backend.git"
+    "url": "git+https://github.com/ramy-medhat/hotel-app-api.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ramy-medhat/hotel-app-backend/issues"
+    "url": "https://github.com/ramy-medhat/hotel-app-api/issues"
   },
-  "homepage": "https://github.com/ramy-medhat/hotel-app-backend#readme",
+  "homepage": "https://github.com/ramy-medhat/hotel-app-api#readme",
   "dependencies": {
     "faker": "^4.1.0",
     "json-schema-faker": "^0.5.0-rc16",

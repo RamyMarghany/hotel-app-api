@@ -3,5 +3,6 @@ const roomTypes = ["Single", "Double", "Triple", "Quad", "Queen", "king", "Twin"
 const amenities = ["free_parking", "free_wifi", "pets", "restaurant", "gym", "pool", "spa"]
 module.exports = {
     hotelNames,
-    roomTypes
+    roomTypes,
+    amenities
 }
